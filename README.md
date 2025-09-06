@@ -1,2 +1,5 @@
-# atividade-git
-Atividade: Gestão de Configuração e Controle de Versão com Git/GitHub
+# Atividade GitHub
+
+## Sobre mim
+- Nome: Daniell Wendyson
+- Curso: Ciência da Computação
